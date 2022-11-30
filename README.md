@@ -10,8 +10,8 @@ In the project directory, you can run:
 
 Ce projet est réalisé dans le cadre d'une video tutoriel sur ReactJS réalisé par fromScratch, sur le théme des pays, les fonctionalités sont:
 
-####La visualisation des drapeaux du monde.
-####La selection par continent.
-####La selection du nombre de drapeaux a afficher.
+####*La visualisation des drapeaux du monde.
+####*La selection par continent.
+####*La selection du nombre de drapeaux a afficher.
 
 
