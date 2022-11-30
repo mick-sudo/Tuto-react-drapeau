@@ -12,6 +12,6 @@ Ce projet est réalisé dans le cadre d'une video tutoriel sur ReactJS réalisé
 
  * La visualisation des drapeaux du monde.
  * La selection par continent.
-#### *La selection du nombre de drapeaux a afficher.
+ * La selection du nombre de drapeaux a afficher.
 
 
